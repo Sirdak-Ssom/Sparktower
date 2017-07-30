@@ -1,4 +1,4 @@
-# Sparktower
+# Sparktower Alpha
 Web Browser
 
 This is a an alpha for the upcoming Bouuv Globan (project sparktower)
